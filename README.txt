@@ -1,6 +1,5 @@
 === WordPress Content Likes WordPress Plugin ===
-Contributors: radboris, zwilson, fsimmons
-Donate link: www.gulosolutions.com
+Contributors: radboris
 Tags: likes, kpi, analytics, user activity
 Requires at least: 3.0.1
 Tested up to: 5.1
